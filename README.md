@@ -1,0 +1,2 @@
+# Iconic
+Income collection icon
